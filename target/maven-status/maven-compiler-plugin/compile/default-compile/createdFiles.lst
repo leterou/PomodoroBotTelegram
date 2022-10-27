@@ -1,0 +1,5 @@
+telegramm\commands\HelpCommand.class
+telegramm\MyTelegarammBot.class
+org\example\Main.class
+telegramm\commands\ServiceCommand.class
+telegramm\commands\StartCommand.class
