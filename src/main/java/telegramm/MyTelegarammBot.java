@@ -13,7 +13,7 @@ import telegramm.commands.StartCommand;
 import java.util.concurrent.TimeUnit;
 
 public class MyTelegarammBot extends TelegramLongPollingCommandBot {
-    public static final String BOT_TOKEN= "*Enter your numb*";
+    public static final String BOT_TOKEN= "*Enter your number*";
     public static final String BOT_USERNAME= "Pomodorou_bot";
     public static final int WORK = 25;
     public static final int BREAK = 5;
